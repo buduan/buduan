@@ -1,5 +1,8 @@
 # 你好，我是不断同学。
-### This is Buduan.    
+### This is Buduan.  
+You can speak 🇨🇳Chinese or 🇬🇧English to me.
+Thanks for your follow!
+
 #### 中文  
 - 👋 Hi, 我是不断同学 （@buduan）
 - 🏫 宁波诺丁汉大学 Computer Science 23届学生
