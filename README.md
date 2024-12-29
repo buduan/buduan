@@ -10,7 +10,7 @@ Thanks for your follow!
 - 🌱 正在学习Pytorch、Vue3和Express.js
 - 📫 个人邮箱：buduan461@gmail.com
 - 🌍 个人官网：www.ibuduan.com
-- 📃 个人博客：（重构中, 将会与个人官网合并）
+- 📃 个人博客：（重构中, 将会与个人官网合并）  
 **社交媒体：**  
 - Bilibili：@我是不断同学(生活向)
 - 微信公众号：不断同学（杂七杂八）
@@ -24,7 +24,7 @@ Thanks for your follow!
 - 🌱 Develop learning: Pytorch, Vue3, Express.js
 - 📫 Personal e-mail：buduan@ibuduan.com  
 - 🌍 My Website：www.ibuduan.com  
-- 📄 My blog：(Rebuilding)
+- 📄 My blog：(Rebuilding)  
 **Social Media：**  
 - Twitter：@Imbuduan
 - Instagram：@Buduan
