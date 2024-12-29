@@ -4,10 +4,10 @@
 - 👋 Hi, 我是不断同学 （@buduan）
 - 🏫 宁波诺丁汉大学 Computer Science 23届学生
 - 👀 喜欢设计、听歌，刷电影  
-- 🌱 正在学习Vue和PHP 8
-- 📫 个人邮箱：buduan@ibuduan.com  
-- 🌍 个人官网：www.ibuduan.com  
-- 📄 个人博客：www.461blog.cn  
+- 🌱 正在学习Pytorch、Vue3和Express.js
+- 📫 个人邮箱：buduan461@gmail.com
+- 🌍 个人官网：www.ibuduan.com
+- 📃 个人博客：（重构中, 将会与个人官网合并）
 **社交媒体：**  
 - Bilibili：@我是不断同学(生活向)
 - 微信公众号：不断同学（杂七杂八）
@@ -18,10 +18,10 @@
 - 👋 Hi, I‘m Buduan （@buduan）
 - 🏫 I majored in Computer Science at the University of Nottingham Ningbo
 - 👀 Hobby: Making design works, Listening to music, watch films
-- 🌱 Develop learning: Vue3, PHP8
+- 🌱 Develop learning: Pytorch, Vue3, Express.js
 - 📫 Personal e-mail：buduan@ibuduan.com  
 - 🌍 My Website：www.ibuduan.com  
-- 📄 My blog：www.461blog.cn
+- 📄 My blog：(Rebuilding)
 **Social Media：**  
 - Twitter：@Imbuduan
 - Instagram：@Buduan
