@@ -1,6 +1,8 @@
 # 你好，我是不断同学 (柏岑)。
 
-### This is Buduan (Baicen).  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Buduan+(Baicen+Liu);An+AI-powered+full-stack+developer" alt="Typing SVG" />
+</div>
 
 You can speak 🇨🇳Chinese or 🇬🇧English to me.
 
@@ -11,15 +13,15 @@ Thanks for your follow!
 - **From:** 黑龙江省大庆市 Daqing, Heilongjiang, China
 - **Current Base:** Ningbo, Zhejiang, China
 - **Current:**
-    - 宁波诺丁汉大学，2027届计算机系本科学生  
-      UG Student, BSc Computer Science, Class of 2027, Uni of Nottingham Ningbo
-    - 宁波诺丁汉大学，计算机爱好者协会主席团成员
+    - 宁波诺丁汉大学，2027届计算机系本科学生   
+      UG Student, BSc Computer Science, Class of 2027, Uni of Nottingham Ningbo  
+    - 宁波诺丁汉大学，计算机爱好者协会主席团成员  
       Computer Psycho Union, UNNC
 - **Past:**
-    - 宁波诺丁汉大学，计算机爱好者协会负责人 (2024.06 - 2026.06)
-      The president of Computer Psycho Union, UNNC
-    - 腾讯，PCG 技术线，前端开发实习生 (2025.05 - 2026.09)
-      Front-end Engineer (Intern) at PCG Tech, Tencent
+    - 宁波诺丁汉大学，计算机爱好者协会负责人 (2024.06 - 2026.06)  
+      The president of Computer Psycho Union, UNNC  
+    - 腾讯，PCG 技术线，前端开发实习生 (2025.05 - 2026.09)  
+      Front-end Engineer (Intern) at PCG Tech, Tencent  
 
 ## Tech Stack
 
@@ -40,6 +42,12 @@ Thanks for your follow!
 - **MISC:**
     - Git
     - Docker
+
+## GitHub REPOs
+<div align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=buduan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=buduan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,Smarty,AngelScript" alt="Top Languages" height="170"/>
+</div>
 
 ## 🙏 Seek for intern opportunity
 
