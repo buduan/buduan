@@ -13,21 +13,27 @@ Thanks for your follow!
 - **Current:**
     - 宁波诺丁汉大学，2027届计算机系本科学生  
       UG Student, BSc Computer Science, Class of 2027, Uni of Nottingham Ningbo
-    - 宁波诺丁汉大学，计算机爱好者协会负责人
-      The president of Computer Psycho Union, UNNC
+    - 宁波诺丁汉大学，计算机爱好者协会主席团成员
+      Computer Psycho Union, UNNC
 - **Past:**
-    - 腾讯，PCG 技术线，前端开发实习生
+    - 宁波诺丁汉大学，计算机爱好者协会负责人 (2024.06 - 2026.06)
+      The president of Computer Psycho Union, UNNC
+    - 腾讯，PCG 技术线，前端开发实习生 (2025.05 - 2026.09)
       Front-end Engineer (Intern) at PCG Tech, Tencent
 
 ## Tech Stack
 
 - **Web Dev:**
     - Vue: Vue.js 3, Vite, Vitest, VueUse, Nuxt
+    - React (Learning): React, Next.js
     - Style: TailwindCSS, SCSS
     - Component: ShadCN-vue, NuxtUI, Element Plus
     - Node: Express.js
     - DataBase: MongoDB, PostgreSQL
- 
+
+- **Mobile Dev:**
+    - Cross-platform: React-Native
+    - iOS: Swift (Learning)
 - **AI Agent:**
     - Tool Chain: LangChain, Dify.ai
 
